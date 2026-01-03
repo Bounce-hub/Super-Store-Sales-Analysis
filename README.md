@@ -78,6 +78,7 @@ The dashboard highlights the following key performance indicators:
 # Dashboard Visualization
 
 
+
 # Dashboard Insights
 
 ### 6.1 Sales by Region
