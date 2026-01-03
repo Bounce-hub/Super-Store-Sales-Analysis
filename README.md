@@ -160,6 +160,7 @@ ii. Future analysis could include forecasting, customer lifetime value, and deep
 
 
 # Prepared by: Victory Chukwuemeka
+# https://www.linkedin.com/in/victory-chukwuemeka-ba9275228
 
 
 
