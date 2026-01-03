@@ -79,8 +79,6 @@ The dashboard highlights the following key performance indicators:
 
 https://github.com/Bounce-hub/Super-Store-Sales-Analysis/blob/main/Sales%20Performance%20Dashboard.png
 
-https://github.com/Bounce-hub/Super-Store-Sales-Analysis/blob/main/Sales%20Performance%20dashboard%202.png
-
 
 # Dashboard Insights
 
